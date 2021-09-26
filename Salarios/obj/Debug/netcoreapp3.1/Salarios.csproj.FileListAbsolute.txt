@@ -1,0 +1,14 @@
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\bin\Debug\netcoreapp3.1\Salarios.exe
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\bin\Debug\netcoreapp3.1\Salarios.deps.json
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\bin\Debug\netcoreapp3.1\Salarios.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\bin\Debug\netcoreapp3.1\Salarios.runtimeconfig.dev.json
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\bin\Debug\netcoreapp3.1\Salarios.dll
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\bin\Debug\netcoreapp3.1\Salarios.pdb
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\obj\Debug\netcoreapp3.1\Salarios.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\obj\Debug\netcoreapp3.1\Salarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\obj\Debug\netcoreapp3.1\Salarios.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\obj\Debug\netcoreapp3.1\Salarios.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\obj\Debug\netcoreapp3.1\Salarios.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\obj\Debug\netcoreapp3.1\Salarios.dll
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\obj\Debug\netcoreapp3.1\Salarios.pdb
+C:\Users\ander\OneDrive\Documentos\Atividade trilha\Salarios\Salarios\obj\Debug\netcoreapp3.1\Salarios.genruntimeconfig.cache
